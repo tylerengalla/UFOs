@@ -22,5 +22,5 @@ Here is our table once we've filtered it down to a specific "date", "state", and
 
 One drawback from this current design is the lack of a "Clear Filters" button. So you have to manually delete all filters to get back to our original table. 
 
-Two recommendations for improvement would be to allow fulling spelling of States' names to filter the states you want as well as including the "Clear Filters" button. 
+Some recommendations for improvement would be to allow filtering of states by spelling of their full name, not making filters case sensitive, and including the "Clear Filters" button. 
 
