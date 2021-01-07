@@ -5,7 +5,7 @@ Build a dynamic table with HTML and Javascript that filters through data on mult
 
 # Results
 
-Are we alone? Let's use our table of UFO sightings to find out more about these sightings of UFOs. 
+Are we alone? Let's use our table of UFO sightings to explore for ourselves and find out. 
 
 ![](/images/ufo_header.png)
 
