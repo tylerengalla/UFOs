@@ -5,10 +5,10 @@ Build a dynamic table with HTML and Javascript that filters through data on mult
 
 # Results
 
-![](/ufo_header.png)
+![](/images/ufo_header.png)
 
 
-![](/filters.png)
+![](/images/filters.png)
 
 # Summary
 
